@@ -1,2 +1,0 @@
-# installpanel
-installprotect
